@@ -68,3 +68,4 @@ foreign key (id_alumno) references alumno(id),
 foreign key (id_asignatura) references asignatura(id),
 foreign key (id_curso_escolar) references curso_escolar(id)
 );
+

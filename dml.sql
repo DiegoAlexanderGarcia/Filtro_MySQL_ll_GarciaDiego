@@ -1,5 +1,6 @@
 use El_Univercitario;
 
+
 /* Departamento */
 INSERT INTO departamento VALUES (1, 'Informática');
 INSERT INTO departamento VALUES (2, 'Matemáticas');
@@ -10,7 +11,7 @@ INSERT INTO departamento VALUES (6, 'Química y Física');
 INSERT INTO departamento VALUES (7, 'Filología');
 INSERT INTO departamento VALUES (8, 'Derecho');
 INSERT INTO departamento VALUES (9, 'Biología y Geología');
- 
+
  /* alumno */
 INSERT INTO alumno VALUES (1, '89542419S', 'Juan', 'Saez', 'Vega', 'Almería', 'C/ Mercurio', '618253876', '1992/08/08', 'H');
 INSERT INTO alumno VALUES (2, '26902806M', 'Salvador', 'Sánchez', 'Pérez', 'Almería', 'C/ Real del barrio alto', '950254837', '1991/03/28', 'H');
